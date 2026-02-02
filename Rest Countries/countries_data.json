@@ -1,0 +1,4568 @@
+[
+  {
+    "Name": "Andorra",
+    "Capital": [
+      "Andorra la Vella"
+    ],
+    "Languages": {
+      "cat": "Catalan"
+    },
+    "Population": 88406,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Trinidad and Tobago",
+    "Capital": [
+      "Port of Spain"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 1367764,
+    "Currencies": {
+      "TTD": {
+        "symbol": "$",
+        "name": "Trinidad and Tobago dollar"
+      }
+    }
+  },
+  {
+    "Name": "Serbia",
+    "Capital": [
+      "Belgrade"
+    ],
+    "Languages": {
+      "srp": "Serbian"
+    },
+    "Population": 6567783,
+    "Currencies": {
+      "RSD": {
+        "symbol": "\u0434\u0438\u043d.",
+        "name": "Serbian dinar"
+      }
+    }
+  },
+  {
+    "Name": "United Kingdom",
+    "Capital": [
+      "London"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 69281437,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "British pound"
+      }
+    }
+  },
+  {
+    "Name": "Russia",
+    "Capital": [
+      "Moscow"
+    ],
+    "Languages": {
+      "rus": "Russian"
+    },
+    "Population": 146028325,
+    "Currencies": {
+      "RUB": {
+        "symbol": "\u20bd",
+        "name": "Russian ruble"
+      }
+    }
+  },
+  {
+    "Name": "Hong Kong",
+    "Capital": [
+      "City of Victoria"
+    ],
+    "Languages": {
+      "eng": "English",
+      "zho": "Chinese"
+    },
+    "Population": 7527500,
+    "Currencies": {
+      "HKD": {
+        "symbol": "$",
+        "name": "Hong Kong dollar"
+      }
+    }
+  },
+  {
+    "Name": "Western Sahara",
+    "Capital": [
+      "El Aai\u00fan"
+    ],
+    "Languages": {
+      "ber": "Berber",
+      "mey": "Hassaniya",
+      "spa": "Spanish"
+    },
+    "Population": 600904,
+    "Currencies": {
+      "DZD": {
+        "symbol": "\u062f\u062c",
+        "name": "Algerian dinar"
+      },
+      "MAD": {
+        "symbol": "DH",
+        "name": "Moroccan dirham"
+      },
+      "MRU": {
+        "symbol": "UM",
+        "name": "Mauritanian ouguiya"
+      }
+    }
+  },
+  {
+    "Name": "Uruguay",
+    "Capital": [
+      "Montevideo"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 3499451,
+    "Currencies": {
+      "UYU": {
+        "symbol": "$",
+        "name": "Uruguayan peso"
+      }
+    }
+  },
+  {
+    "Name": "Barbados",
+    "Capital": [
+      "Bridgetown"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 267800,
+    "Currencies": {
+      "BBD": {
+        "symbol": "$",
+        "name": "Barbadian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Palestine",
+    "Capital": [
+      "Ramallah",
+      "Jerusalem"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 5483450,
+    "Currencies": {
+      "EGP": {
+        "symbol": "E\u00a3",
+        "name": "Egyptian pound"
+      },
+      "ILS": {
+        "symbol": "\u20aa",
+        "name": "Israeli new shekel"
+      },
+      "JOD": {
+        "symbol": "JD",
+        "name": "Jordanian dinar"
+      }
+    }
+  },
+  {
+    "Name": "Mexico",
+    "Capital": [
+      "Mexico City"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 130575786,
+    "Currencies": {
+      "MXN": {
+        "symbol": "$",
+        "name": "Mexican peso"
+      }
+    }
+  },
+  {
+    "Name": "Malawi",
+    "Capital": [
+      "Lilongwe"
+    ],
+    "Languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "Population": 20734262,
+    "Currencies": {
+      "MWK": {
+        "symbol": "MK",
+        "name": "Malawian kwacha"
+      }
+    }
+  },
+  {
+    "Name": "Antarctica",
+    "Capital": [],
+    "Languages": {},
+    "Population": 1300,
+    "Currencies": {}
+  },
+  {
+    "Name": "New Caledonia",
+    "Capital": [
+      "Noum\u00e9a"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 264596,
+    "Currencies": {
+      "XPF": {
+        "symbol": "\u20a3",
+        "name": "CFP franc"
+      }
+    }
+  },
+  {
+    "Name": "Svalbard and Jan Mayen",
+    "Capital": [
+      "Longyearbyen"
+    ],
+    "Languages": {
+      "nor": "Norwegian"
+    },
+    "Population": 2530,
+    "Currencies": {
+      "NOK": {
+        "symbol": "kr",
+        "name": "krone"
+      }
+    }
+  },
+  {
+    "Name": "Norfolk Island",
+    "Capital": [
+      "Kingston"
+    ],
+    "Languages": {
+      "eng": "English",
+      "pih": "Norfuk"
+    },
+    "Population": 2188,
+    "Currencies": {
+      "AUD": {
+        "symbol": "$",
+        "name": "Australian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Christmas Island",
+    "Capital": [
+      "Flying Fish Cove"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 1692,
+    "Currencies": {
+      "AUD": {
+        "symbol": "$",
+        "name": "Australian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Mongolia",
+    "Capital": [
+      "Ulan Bator"
+    ],
+    "Languages": {
+      "mon": "Mongolian"
+    },
+    "Population": 3544835,
+    "Currencies": {
+      "MNT": {
+        "symbol": "\u20ae",
+        "name": "Mongolian t\u00f6gr\u00f6g"
+      }
+    }
+  },
+  {
+    "Name": "Latvia",
+    "Capital": [
+      "Riga"
+    ],
+    "Languages": {
+      "lav": "Latvian"
+    },
+    "Population": 1829000,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Brunei",
+    "Capital": [
+      "Bandar Seri Begawan"
+    ],
+    "Languages": {
+      "msa": "Malay"
+    },
+    "Population": 455500,
+    "Currencies": {
+      "BND": {
+        "symbol": "$",
+        "name": "Brunei dollar"
+      },
+      "SGD": {
+        "symbol": "$",
+        "name": "Singapore dollar"
+      }
+    }
+  },
+  {
+    "Name": "Ukraine",
+    "Capital": [
+      "Kyiv"
+    ],
+    "Languages": {
+      "ukr": "Ukrainian"
+    },
+    "Population": 32862000,
+    "Currencies": {
+      "UAH": {
+        "symbol": "\u20b4",
+        "name": "Ukrainian hryvnia"
+      }
+    }
+  },
+  {
+    "Name": "North Korea",
+    "Capital": [
+      "Pyongyang"
+    ],
+    "Languages": {
+      "kor": "Korean"
+    },
+    "Population": 25950000,
+    "Currencies": {
+      "KPW": {
+        "symbol": "\u20a9",
+        "name": "North Korean won"
+      }
+    }
+  },
+  {
+    "Name": "Finland",
+    "Capital": [
+      "Helsinki"
+    ],
+    "Languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    },
+    "Population": 5650325,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Anguilla",
+    "Capital": [
+      "The Valley"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 16010,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Azerbaijan",
+    "Capital": [
+      "Baku"
+    ],
+    "Languages": {
+      "aze": "Azerbaijani"
+    },
+    "Population": 10241722,
+    "Currencies": {
+      "AZN": {
+        "symbol": "\u20bc",
+        "name": "Azerbaijani manat"
+      }
+    }
+  },
+  {
+    "Name": "Cayman Islands",
+    "Capital": [
+      "George Town"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 84738,
+    "Currencies": {
+      "KYD": {
+        "symbol": "$",
+        "name": "Cayman Islands dollar"
+      }
+    }
+  },
+  {
+    "Name": "Uzbekistan",
+    "Capital": [
+      "Tashkent"
+    ],
+    "Languages": {
+      "rus": "Russian",
+      "uzb": "Uzbek"
+    },
+    "Population": 37859698,
+    "Currencies": {
+      "UZS": {
+        "symbol": "so'm",
+        "name": "Uzbekistani so\u02bbm"
+      }
+    }
+  },
+  {
+    "Name": "United Kingdom",
+    "Capital": [
+      "London"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 69281437,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "British pound"
+      }
+    }
+  },
+  {
+    "Name": "Ireland",
+    "Capital": [
+      "Dublin"
+    ],
+    "Languages": {
+      "eng": "English",
+      "gle": "Irish"
+    },
+    "Population": 5458600,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Jersey",
+    "Capital": [
+      "Saint Helier"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fra": "French",
+      "nrf": "J\u00e8rriais"
+    },
+    "Population": 103267,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "British pound"
+      },
+      "JEP": {
+        "symbol": "\u00a3",
+        "name": "Jersey pound"
+      }
+    }
+  },
+  {
+    "Name": "Rwanda",
+    "Capital": [
+      "Kigali"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    },
+    "Population": 14104969,
+    "Currencies": {
+      "RWF": {
+        "symbol": "Fr",
+        "name": "Rwandan franc"
+      }
+    }
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "Capital": [
+      "Sarajevo"
+    ],
+    "Languages": {
+      "bos": "Bosnian",
+      "hrv": "Croatian",
+      "srp": "Serbian"
+    },
+    "Population": 3422000,
+    "Currencies": {
+      "BAM": {
+        "symbol": "KM",
+        "name": "Bosnia and Herzegovina convertible mark"
+      }
+    }
+  },
+  {
+    "Name": "Poland",
+    "Capital": [
+      "Warsaw"
+    ],
+    "Languages": {
+      "pol": "Polish"
+    },
+    "Population": 37392000,
+    "Currencies": {
+      "PLN": {
+        "symbol": "z\u0142",
+        "name": "Polish z\u0142oty"
+      }
+    }
+  },
+  {
+    "Name": "Portugal",
+    "Capital": [
+      "Lisbon"
+    ],
+    "Languages": {
+      "por": "Portuguese"
+    },
+    "Population": 10749635,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Haiti",
+    "Capital": [
+      "Port-au-Prince"
+    ],
+    "Languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    },
+    "Population": 11867032,
+    "Currencies": {
+      "HTG": {
+        "symbol": "G",
+        "name": "Haitian gourde"
+      }
+    }
+  },
+  {
+    "Name": "Iran",
+    "Capital": [
+      "Tehran"
+    ],
+    "Languages": {
+      "fas": "Persian (Farsi)"
+    },
+    "Population": 85961000,
+    "Currencies": {
+      "IRR": {
+        "symbol": "\ufdfc",
+        "name": "Iranian rial"
+      }
+    }
+  },
+  {
+    "Name": "Cook Islands",
+    "Capital": [
+      "Avarua"
+    ],
+    "Languages": {
+      "eng": "English",
+      "rar": "Cook Islands M\u0101ori"
+    },
+    "Population": 15040,
+    "Currencies": {
+      "CKD": {
+        "symbol": "$",
+        "name": "Cook Islands dollar"
+      },
+      "NZD": {
+        "symbol": "$",
+        "name": "New Zealand dollar"
+      }
+    }
+  },
+  {
+    "Name": "French Southern and Antarctic Lands",
+    "Capital": [
+      "Port-aux-Fran\u00e7ais"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 400,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Ethiopia",
+    "Capital": [
+      "Addis Ababa"
+    ],
+    "Languages": {
+      "amh": "Amharic"
+    },
+    "Population": 111652998,
+    "Currencies": {
+      "ETB": {
+        "symbol": "Br",
+        "name": "Ethiopian birr"
+      }
+    }
+  },
+  {
+    "Name": "Kazakhstan",
+    "Capital": [
+      "Astana"
+    ],
+    "Languages": {
+      "kaz": "Kazakh",
+      "rus": "Russian"
+    },
+    "Population": 20426568,
+    "Currencies": {
+      "KZT": {
+        "symbol": "\u20b8",
+        "name": "Kazakhstani tenge"
+      }
+    }
+  },
+  {
+    "Name": "Mali",
+    "Capital": [
+      "Bamako"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 22395489,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Somalia",
+    "Capital": [
+      "Mogadishu"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    },
+    "Population": 19655000,
+    "Currencies": {
+      "SOS": {
+        "symbol": "Sh",
+        "name": "Somali shilling"
+      }
+    }
+  },
+  {
+    "Name": "Nicaragua",
+    "Capital": [
+      "Managua"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 6803886,
+    "Currencies": {
+      "NIO": {
+        "symbol": "C$",
+        "name": "Nicaraguan c\u00f3rdoba"
+      }
+    }
+  },
+  {
+    "Name": "Germany",
+    "Capital": [
+      "Berlin"
+    ],
+    "Languages": {
+      "deu": "German"
+    },
+    "Population": 83491249,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Estonia",
+    "Capital": [
+      "Tallinn"
+    ],
+    "Languages": {
+      "est": "Estonian"
+    },
+    "Population": 1369995,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Tunisia",
+    "Capital": [
+      "Tunis"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 11972169,
+    "Currencies": {
+      "TND": {
+        "symbol": "\u062f.\u062a",
+        "name": "Tunisian dinar"
+      }
+    }
+  },
+  {
+    "Name": "Saint Martin",
+    "Capital": [
+      "Marigot"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 31496,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Cameroon",
+    "Capital": [
+      "Yaound\u00e9"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "Population": 29442327,
+    "Currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Micronesia",
+    "Capital": [
+      "Palikir"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 105564,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Sint Maarten",
+    "Capital": [
+      "Philipsburg"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "Population": 41349,
+    "Currencies": {
+      "ANG": {
+        "symbol": "\u0192",
+        "name": "Netherlands Antillean guilder"
+      }
+    }
+  },
+  {
+    "Name": "Cyprus",
+    "Capital": [
+      "Nicosia"
+    ],
+    "Languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    },
+    "Population": 1442614,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Morocco",
+    "Capital": [
+      "Rabat"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "Population": 36828330,
+    "Currencies": {
+      "MAD": {
+        "symbol": "\u062f.\u0645.",
+        "name": "Moroccan dirham"
+      }
+    }
+  },
+  {
+    "Name": "Pitcairn Islands",
+    "Capital": [
+      "Adamstown"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 35,
+    "Currencies": {
+      "NZD": {
+        "symbol": "$",
+        "name": "New Zealand dollar"
+      }
+    }
+  },
+  {
+    "Name": "Cura\u00e7ao",
+    "Capital": [
+      "Willemstad"
+    ],
+    "Languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "Population": 156115,
+    "Currencies": {
+      "ANG": {
+        "symbol": "\u0192",
+        "name": "Netherlands Antillean guilder"
+      }
+    }
+  },
+  {
+    "Name": "Aruba",
+    "Capital": [
+      "Oranjestad"
+    ],
+    "Languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "Population": 107566,
+    "Currencies": {
+      "AWG": {
+        "symbol": "\u0192",
+        "name": "Aruban florin"
+      }
+    }
+  },
+  {
+    "Name": "Spain",
+    "Capital": [
+      "Madrid"
+    ],
+    "Languages": {
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
+    },
+    "Population": 49315949,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Gabon",
+    "Capital": [
+      "Libreville"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 2469296,
+    "Currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "\u00c5land Islands",
+    "Capital": [
+      "Mariehamn"
+    ],
+    "Languages": {
+      "swe": "Swedish"
+    },
+    "Population": 30654,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Denmark",
+    "Capital": [
+      "Copenhagen"
+    ],
+    "Languages": {
+      "dan": "Danish"
+    },
+    "Population": 6011488,
+    "Currencies": {
+      "DKK": {
+        "symbol": "kr",
+        "name": "Danish krone"
+      }
+    }
+  },
+  {
+    "Name": "Martinique",
+    "Capital": [
+      "Fort-de-France"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 349925,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Antigua and Barbuda",
+    "Capital": [
+      "Saint John's"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 103603,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Eswatini",
+    "Capital": [
+      "Mbabane"
+    ],
+    "Languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    },
+    "Population": 1235549,
+    "Currencies": {
+      "SZL": {
+        "symbol": "L",
+        "name": "Swazi lilangeni"
+      },
+      "ZAR": {
+        "symbol": "R",
+        "name": "South African rand"
+      }
+    }
+  },
+  {
+    "Name": "Taiwan",
+    "Capital": [
+      "Taipei"
+    ],
+    "Languages": {
+      "zho": "Chinese"
+    },
+    "Population": 23317031,
+    "Currencies": {
+      "TWD": {
+        "symbol": "$",
+        "name": "New Taiwan dollar"
+      }
+    }
+  },
+  {
+    "Name": "Vanuatu",
+    "Capital": [
+      "Port Vila"
+    ],
+    "Languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    },
+    "Population": 321409,
+    "Currencies": {
+      "VUV": {
+        "symbol": "Vt",
+        "name": "Vanuatu vatu"
+      }
+    }
+  },
+  {
+    "Name": "Cook Islands",
+    "Capital": [
+      "Avarua"
+    ],
+    "Languages": {
+      "eng": "English",
+      "rar": "Cook Islands M\u0101ori"
+    },
+    "Population": 15040,
+    "Currencies": {
+      "CKD": {
+        "symbol": "$",
+        "name": "Cook Islands dollar"
+      },
+      "NZD": {
+        "symbol": "$",
+        "name": "New Zealand dollar"
+      }
+    }
+  },
+  {
+    "Name": "Cocos (Keeling) Islands",
+    "Capital": [
+      "West Island"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 593,
+    "Currencies": {
+      "AUD": {
+        "symbol": "$",
+        "name": "Australian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Cape Verde",
+    "Capital": [
+      "Praia"
+    ],
+    "Languages": {
+      "por": "Portuguese"
+    },
+    "Population": 491233,
+    "Currencies": {
+      "CVE": {
+        "symbol": "Esc",
+        "name": "Cape Verdean escudo"
+      }
+    }
+  },
+  {
+    "Name": "Belarus",
+    "Capital": [
+      "Minsk"
+    ],
+    "Languages": {
+      "bel": "Belarusian",
+      "rus": "Russian"
+    },
+    "Population": 9109280,
+    "Currencies": {
+      "BYN": {
+        "symbol": "Br",
+        "name": "Belarusian ruble"
+      }
+    }
+  },
+  {
+    "Name": "Czechia",
+    "Capital": [
+      "Prague"
+    ],
+    "Languages": {
+      "ces": "Czech",
+      "slk": "Slovak"
+    },
+    "Population": 10882341,
+    "Currencies": {
+      "CZK": {
+        "symbol": "K\u010d",
+        "name": "Czech koruna"
+      }
+    }
+  },
+  {
+    "Name": "Peru",
+    "Capital": [
+      "Lima"
+    ],
+    "Languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "Population": 34350244,
+    "Currencies": {
+      "PEN": {
+        "symbol": "S/ ",
+        "name": "Peruvian sol"
+      }
+    }
+  },
+  {
+    "Name": "Timor-Leste",
+    "Capital": [
+      "Dili"
+    ],
+    "Languages": {
+      "por": "Portuguese",
+      "tet": "Tetum"
+    },
+    "Population": 1391221,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Namibia",
+    "Capital": [
+      "Windhoek"
+    ],
+    "Languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    },
+    "Population": 3022401,
+    "Currencies": {
+      "NAD": {
+        "symbol": "$",
+        "name": "Namibian dollar"
+      },
+      "ZAR": {
+        "symbol": "R",
+        "name": "South African rand"
+      }
+    }
+  },
+  {
+    "Name": "Tokelau",
+    "Capital": [
+      "Fakaofo"
+    ],
+    "Languages": {
+      "eng": "English",
+      "smo": "Samoan",
+      "tkl": "Tokelauan"
+    },
+    "Population": 2608,
+    "Currencies": {
+      "NZD": {
+        "symbol": "$",
+        "name": "New Zealand dollar"
+      }
+    }
+  },
+  {
+    "Name": "DR Congo",
+    "Capital": [
+      "Kinshasa"
+    ],
+    "Languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "Population": 112832000,
+    "Currencies": {
+      "CDF": {
+        "symbol": "FC",
+        "name": "Congolese franc"
+      }
+    }
+  },
+  {
+    "Name": "Saint Lucia",
+    "Capital": [
+      "Castries"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 184100,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Suriname",
+    "Capital": [
+      "Paramaribo"
+    ],
+    "Languages": {
+      "nld": "Dutch"
+    },
+    "Population": 616500,
+    "Currencies": {
+      "SRD": {
+        "symbol": "$",
+        "name": "Surinamese dollar"
+      }
+    }
+  },
+  {
+    "Name": "Burundi",
+    "Capital": [
+      "Gitega"
+    ],
+    "Languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    },
+    "Population": 12332788,
+    "Currencies": {
+      "BIF": {
+        "symbol": "Fr",
+        "name": "Burundian franc"
+      }
+    }
+  },
+  {
+    "Name": "Georgia",
+    "Capital": [
+      "Tbilisi"
+    ],
+    "Languages": {
+      "kat": "Georgian"
+    },
+    "Population": 4000921,
+    "Currencies": {
+      "GEL": {
+        "symbol": "\u20be",
+        "name": "lari"
+      }
+    }
+  },
+  {
+    "Name": "South Georgia",
+    "Capital": [
+      "King Edward Point"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 0,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "British pound"
+      }
+    }
+  },
+  {
+    "Name": "Ghana",
+    "Capital": [
+      "Accra"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 33742380,
+    "Currencies": {
+      "GHS": {
+        "symbol": "\u20b5",
+        "name": "Ghanaian cedi"
+      }
+    }
+  },
+  {
+    "Name": "British Indian Ocean Territory",
+    "Capital": [
+      "Diego Garcia"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 0,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Egypt",
+    "Capital": [
+      "Cairo"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 107271260,
+    "Currencies": {
+      "EGP": {
+        "symbol": "\u00a3",
+        "name": "Egyptian pound"
+      }
+    }
+  },
+  {
+    "Name": "French Guiana",
+    "Capital": [
+      "Cayenne"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 292354,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Marshall Islands",
+    "Capital": [
+      "Majuro"
+    ],
+    "Languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    },
+    "Population": 42418,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Guinea-Bissau",
+    "Capital": [
+      "Bissau"
+    ],
+    "Languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    },
+    "Population": 1781308,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Fiji",
+    "Capital": [
+      "Suva"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "Population": 900869,
+    "Currencies": {
+      "FJD": {
+        "symbol": "$",
+        "name": "Fijian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Zambia",
+    "Capital": [
+      "Lusaka"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 19693423,
+    "Currencies": {
+      "ZMW": {
+        "symbol": "ZK",
+        "name": "Zambian kwacha"
+      }
+    }
+  },
+  {
+    "Name": "Iceland",
+    "Capital": [
+      "Reykjavik"
+    ],
+    "Languages": {
+      "isl": "Icelandic"
+    },
+    "Population": 391810,
+    "Currencies": {
+      "ISK": {
+        "symbol": "kr",
+        "name": "Icelandic kr\u00f3na"
+      }
+    }
+  },
+  {
+    "Name": "Bermuda",
+    "Capital": [
+      "Hamilton"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 64055,
+    "Currencies": {
+      "BMD": {
+        "symbol": "$",
+        "name": "Bermudian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Brazil",
+    "Capital": [
+      "Bras\u00edlia"
+    ],
+    "Languages": {
+      "por": "Portuguese"
+    },
+    "Population": 213421037,
+    "Currencies": {
+      "BRL": {
+        "symbol": "R$",
+        "name": "Brazilian real"
+      }
+    }
+  },
+  {
+    "Name": "Palau",
+    "Capital": [
+      "Ngerulmud"
+    ],
+    "Languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "Population": 16733,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Sudan",
+    "Capital": [
+      "Khartoum"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "Population": 51662000,
+    "Currencies": {
+      "SDG": {
+        "symbol": "\u062c.\u0633",
+        "name": "Sudanese pound"
+      }
+    }
+  },
+  {
+    "Name": "South Sudan",
+    "Capital": [
+      "Juba"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 15786898,
+    "Currencies": {
+      "SSP": {
+        "symbol": "\u00a3",
+        "name": "South Sudanese pound"
+      }
+    }
+  },
+  {
+    "Name": "Australia",
+    "Capital": [
+      "Canberra"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 27536874,
+    "Currencies": {
+      "AUD": {
+        "symbol": "$",
+        "name": "Australian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Cambodia",
+    "Capital": [
+      "Phnom Penh"
+    ],
+    "Languages": {
+      "khm": "Khmer"
+    },
+    "Population": 17577760,
+    "Currencies": {
+      "KHR": {
+        "symbol": "\u17db",
+        "name": "Cambodian riel"
+      },
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "New Zealand",
+    "Capital": [
+      "Wellington"
+    ],
+    "Languages": {
+      "eng": "English",
+      "mri": "M\u0101ori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "Population": 5324700,
+    "Currencies": {
+      "NZD": {
+        "symbol": "$",
+        "name": "New Zealand dollar"
+      }
+    }
+  },
+  {
+    "Name": "Philippines",
+    "Capital": [
+      "Manila"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    },
+    "Population": 114123600,
+    "Currencies": {
+      "PHP": {
+        "symbol": "\u20b1",
+        "name": "Philippine peso"
+      }
+    }
+  },
+  {
+    "Name": "Burkina Faso",
+    "Capital": [
+      "Ouagadougou"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 24070553,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Faroe Islands",
+    "Capital": [
+      "T\u00f3rshavn"
+    ],
+    "Languages": {
+      "dan": "Danish",
+      "fao": "Faroese"
+    },
+    "Population": 54885,
+    "Currencies": {
+      "DKK": {
+        "symbol": "kr",
+        "name": "Danish krone"
+      },
+      "FOK": {
+        "symbol": "kr",
+        "name": "Faroese kr\u00f3na"
+      }
+    }
+  },
+  {
+    "Name": "Sierra Leone",
+    "Capital": [
+      "Freetown"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 9077691,
+    "Currencies": {
+      "SLE": {
+        "symbol": "Le",
+        "name": "Leone"
+      }
+    }
+  },
+  {
+    "Name": "Grenada",
+    "Capital": [
+      "St. George's"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 109021,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Bolivia",
+    "Capital": [
+      "Sucre"
+    ],
+    "Languages": {
+      "aym": "Aymara",
+      "grn": "Guaran\u00ed",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "Population": 11365333,
+    "Currencies": {
+      "BOB": {
+        "symbol": "Bs.",
+        "name": "Bolivian boliviano"
+      }
+    }
+  },
+  {
+    "Name": "Switzerland",
+    "Capital": [
+      "Bern"
+    ],
+    "Languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "Population": 9082848,
+    "Currencies": {
+      "CHF": {
+        "symbol": "Fr.",
+        "name": "Swiss franc"
+      }
+    }
+  },
+  {
+    "Name": "Saint Vincent and the Grenadines",
+    "Capital": [
+      "Kingstown"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 110872,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Ecuador",
+    "Capital": [
+      "Quito"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 18103660,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Seychelles",
+    "Capital": [
+      "Victoria"
+    ],
+    "Languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "Population": 122729,
+    "Currencies": {
+      "SCR": {
+        "symbol": "\u20a8",
+        "name": "Seychellois rupee"
+      }
+    }
+  },
+  {
+    "Name": "South Africa",
+    "Capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "Languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "Population": 63100945,
+    "Currencies": {
+      "ZAR": {
+        "symbol": "R",
+        "name": "South African rand"
+      }
+    }
+  },
+  {
+    "Name": "British Indian Ocean Territory",
+    "Capital": [
+      "Diego Garcia"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 0,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "India",
+    "Capital": [
+      "New Delhi"
+    ],
+    "Languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    },
+    "Population": 1417492000,
+    "Currencies": {
+      "INR": {
+        "symbol": "\u20b9",
+        "name": "Indian rupee"
+      }
+    }
+  },
+  {
+    "Name": "Liberia",
+    "Capital": [
+      "Monrovia"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 5248621,
+    "Currencies": {
+      "LRD": {
+        "symbol": "$",
+        "name": "Liberian dollar"
+      }
+    }
+  },
+  {
+    "Name": "South Korea",
+    "Capital": [
+      "Seoul"
+    ],
+    "Languages": {
+      "kor": "Korean"
+    },
+    "Population": 51159889,
+    "Currencies": {
+      "KRW": {
+        "symbol": "\u20a9",
+        "name": "South Korean won"
+      }
+    }
+  },
+  {
+    "Name": "Lithuania",
+    "Capital": [
+      "Vilnius"
+    ],
+    "Languages": {
+      "lit": "Lithuanian"
+    },
+    "Population": 2894886,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Singapore",
+    "Capital": [
+      "Singapore"
+    ],
+    "Languages": {
+      "eng": "English",
+      "zho": "Chinese",
+      "msa": "Malay",
+      "tam": "Tamil"
+    },
+    "Population": 6110200,
+    "Currencies": {
+      "SGD": {
+        "symbol": "$",
+        "name": "Singapore dollar"
+      }
+    }
+  },
+  {
+    "Name": "Puerto Rico",
+    "Capital": [
+      "San Juan"
+    ],
+    "Languages": {
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "Population": 3203295,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Belize",
+    "Capital": [
+      "Belmopan"
+    ],
+    "Languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "Population": 417634,
+    "Currencies": {
+      "BZD": {
+        "symbol": "$",
+        "name": "Belize dollar"
+      }
+    }
+  },
+  {
+    "Name": "Caribbean Netherlands",
+    "Capital": [
+      "Kralendijk"
+    ],
+    "Languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "Population": 31980,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Netherlands",
+    "Capital": [
+      "Amsterdam"
+    ],
+    "Languages": {
+      "nld": "Dutch"
+    },
+    "Population": 18100436,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Eritrea",
+    "Capital": [
+      "Asmara"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    },
+    "Population": 3607000,
+    "Currencies": {
+      "ERN": {
+        "symbol": "Nfk",
+        "name": "Eritrean nakfa"
+      }
+    }
+  },
+  {
+    "Name": "Montserrat",
+    "Capital": [
+      "Plymouth"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 4386,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "R\u00e9union",
+    "Capital": [
+      "Saint-Denis"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 896175,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "South Georgia",
+    "Capital": [
+      "King Edward Point"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 0,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "British pound"
+      }
+    }
+  },
+  {
+    "Name": "Bangladesh",
+    "Capital": [
+      "Dhaka"
+    ],
+    "Languages": {
+      "ben": "Bengali"
+    },
+    "Population": 169828911,
+    "Currencies": {
+      "BDT": {
+        "symbol": "\u09f3",
+        "name": "Bangladeshi taka"
+      }
+    }
+  },
+  {
+    "Name": "Yemen",
+    "Capital": [
+      "Sana'a"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 32684503,
+    "Currencies": {
+      "YER": {
+        "symbol": "\ufdfc",
+        "name": "Yemeni rial"
+      }
+    }
+  },
+  {
+    "Name": "Norway",
+    "Capital": [
+      "Oslo"
+    ],
+    "Languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokm\u00e5l",
+      "smi": "Sami"
+    },
+    "Population": 5606944,
+    "Currencies": {
+      "NOK": {
+        "symbol": "kr",
+        "name": "Norwegian krone"
+      }
+    }
+  },
+  {
+    "Name": "Slovenia",
+    "Capital": [
+      "Ljubljana"
+    ],
+    "Languages": {
+      "slv": "Slovene"
+    },
+    "Population": 2130638,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Romania",
+    "Capital": [
+      "Bucharest"
+    ],
+    "Languages": {
+      "ron": "Romanian"
+    },
+    "Population": 19036031,
+    "Currencies": {
+      "RON": {
+        "symbol": "lei",
+        "name": "Romanian leu"
+      }
+    }
+  },
+  {
+    "Name": "Oman",
+    "Capital": [
+      "Muscat"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 5343630,
+    "Currencies": {
+      "OMR": {
+        "symbol": "\u0631.\u0639.",
+        "name": "Omani rial"
+      }
+    }
+  },
+  {
+    "Name": "Mozambique",
+    "Capital": [
+      "Maputo"
+    ],
+    "Languages": {
+      "por": "Portuguese"
+    },
+    "Population": 34090466,
+    "Currencies": {
+      "MZN": {
+        "symbol": "MT",
+        "name": "Mozambican metical"
+      }
+    }
+  },
+  {
+    "Name": "Libya",
+    "Capital": [
+      "Tripoli"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 7459000,
+    "Currencies": {
+      "LYD": {
+        "symbol": "\u0644.\u062f",
+        "name": "Libyan dinar"
+      }
+    }
+  },
+  {
+    "Name": "Chad",
+    "Capital": [
+      "N'Djamena"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "Population": 19340757,
+    "Currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Guyana",
+    "Capital": [
+      "Georgetown"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 772975,
+    "Currencies": {
+      "GYD": {
+        "symbol": "$",
+        "name": "Guyanese dollar"
+      }
+    }
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "Capital": [
+      "Bishkek"
+    ],
+    "Languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    },
+    "Population": 7281800,
+    "Currencies": {
+      "KGS": {
+        "symbol": "\u0441",
+        "name": "Kyrgyzstani som"
+      }
+    }
+  },
+  {
+    "Name": "Djibouti",
+    "Capital": [
+      "Djibouti"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "Population": 1066809,
+    "Currencies": {
+      "DJF": {
+        "symbol": "Fr",
+        "name": "Djiboutian franc"
+      }
+    }
+  },
+  {
+    "Name": "Northern Mariana Islands",
+    "Capital": [
+      "Saipan"
+    ],
+    "Languages": {
+      "cal": "Carolinian",
+      "cha": "Chamorro",
+      "eng": "English"
+    },
+    "Population": 47329,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "United States Minor Outlying Islands",
+    "Capital": [
+      "Washington DC"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 0,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "United States Virgin Islands",
+    "Capital": [
+      "Charlotte Amalie"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 87146,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "United States",
+    "Capital": [
+      "Washington, D.C."
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 340110988,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Togo",
+    "Capital": [
+      "Lom\u00e9"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 8095498,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Sri Lanka",
+    "Capital": [
+      "Sri Jayawardenepura Kotte"
+    ],
+    "Languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    },
+    "Population": 21763170,
+    "Currencies": {
+      "LKR": {
+        "symbol": "Rs  \u0dbb\u0dd4",
+        "name": "Sri Lankan rupee"
+      }
+    }
+  },
+  {
+    "Name": "Comoros",
+    "Capital": [
+      "Moroni"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    },
+    "Population": 919901,
+    "Currencies": {
+      "KMF": {
+        "symbol": "Fr",
+        "name": "Comorian franc"
+      }
+    }
+  },
+  {
+    "Name": "Cuba",
+    "Capital": [
+      "Havana"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 9748007,
+    "Currencies": {
+      "CUC": {
+        "symbol": "$",
+        "name": "Cuban convertible peso"
+      },
+      "CUP": {
+        "symbol": "$",
+        "name": "Cuban peso"
+      }
+    }
+  },
+  {
+    "Name": "Guam",
+    "Capital": [
+      "Hag\u00e5t\u00f1a"
+    ],
+    "Languages": {
+      "cha": "Chamorro",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "Population": 153836,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Argentina",
+    "Capital": [
+      "Buenos Aires"
+    ],
+    "Languages": {
+      "grn": "Guaran\u00ed",
+      "spa": "Spanish"
+    },
+    "Population": 46735004,
+    "Currencies": {
+      "ARS": {
+        "symbol": "$",
+        "name": "Argentine peso"
+      }
+    }
+  },
+  {
+    "Name": "Wallis and Futuna",
+    "Capital": [
+      "Mata-Utu"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 11620,
+    "Currencies": {
+      "XPF": {
+        "symbol": "\u20a3",
+        "name": "CFP franc"
+      }
+    }
+  },
+  {
+    "Name": "Bhutan",
+    "Capital": [
+      "Thimphu"
+    ],
+    "Languages": {
+      "dzo": "Dzongkha"
+    },
+    "Population": 784043,
+    "Currencies": {
+      "BTN": {
+        "symbol": "Nu.",
+        "name": "Bhutanese ngultrum"
+      },
+      "INR": {
+        "symbol": "\u20b9",
+        "name": "Indian rupee"
+      }
+    }
+  },
+  {
+    "Name": "Lebanon",
+    "Capital": [
+      "Beirut"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "Population": 5490000,
+    "Currencies": {
+      "LBP": {
+        "symbol": "\u0644.\u0644",
+        "name": "Lebanese pound"
+      }
+    }
+  },
+  {
+    "Name": "Heard Island and McDonald Islands",
+    "Capital": [],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 0,
+    "Currencies": {}
+  },
+  {
+    "Name": "Lesotho",
+    "Capital": [
+      "Maseru"
+    ],
+    "Languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "Population": 2116427,
+    "Currencies": {
+      "LSL": {
+        "symbol": "L",
+        "name": "Lesotho loti"
+      },
+      "ZAR": {
+        "symbol": "R",
+        "name": "South African rand"
+      }
+    }
+  },
+  {
+    "Name": "Somalia",
+    "Capital": [
+      "Mogadishu"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    },
+    "Population": 19655000,
+    "Currencies": {
+      "SOS": {
+        "symbol": "Sh",
+        "name": "Somali shilling"
+      }
+    }
+  },
+  {
+    "Name": "Dominican Republic",
+    "Capital": [
+      "Santo Domingo"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 10771504,
+    "Currencies": {
+      "DOP": {
+        "symbol": "$",
+        "name": "Dominican peso"
+      }
+    }
+  },
+  {
+    "Name": "Dominica",
+    "Capital": [
+      "Roseau"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 67408,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Hungary",
+    "Capital": [
+      "Budapest"
+    ],
+    "Languages": {
+      "hun": "Hungarian"
+    },
+    "Population": 9539502,
+    "Currencies": {
+      "HUF": {
+        "symbol": "Ft",
+        "name": "Hungarian forint"
+      }
+    }
+  },
+  {
+    "Name": "Luxembourg",
+    "Capital": [
+      "Luxembourg"
+    ],
+    "Languages": {
+      "deu": "German",
+      "fra": "French",
+      "ltz": "Luxembourgish"
+    },
+    "Population": 681973,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "San Marino",
+    "Capital": [
+      "City of San Marino"
+    ],
+    "Languages": {
+      "ita": "Italian"
+    },
+    "Population": 34132,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Afghanistan",
+    "Capital": [
+      "Kabul"
+    ],
+    "Languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    },
+    "Population": 43844000,
+    "Currencies": {
+      "AFN": {
+        "symbol": "\u060b",
+        "name": "Afghan afghani"
+      }
+    }
+  },
+  {
+    "Name": "Mauritania",
+    "Capital": [
+      "Nouakchott"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 4927532,
+    "Currencies": {
+      "MRU": {
+        "symbol": "UM",
+        "name": "Mauritanian ouguiya"
+      }
+    }
+  },
+  {
+    "Name": "Algeria",
+    "Capital": [
+      "Algiers"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 47400000,
+    "Currencies": {
+      "DZD": {
+        "symbol": "\u062f.\u062c",
+        "name": "Algerian dinar"
+      }
+    }
+  },
+  {
+    "Name": "Guadeloupe",
+    "Capital": [
+      "Basse-Terre"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 378561,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Croatia",
+    "Capital": [
+      "Zagreb"
+    ],
+    "Languages": {
+      "hrv": "Croatian"
+    },
+    "Population": 3866233,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Bulgaria",
+    "Capital": [
+      "Sofia"
+    ],
+    "Languages": {
+      "bul": "Bulgarian"
+    },
+    "Population": 6437360,
+    "Currencies": {
+      "BGN": {
+        "symbol": "\u043b\u0432",
+        "name": "Bulgarian lev"
+      }
+    }
+  },
+  {
+    "Name": "Niue",
+    "Capital": [
+      "Alofi"
+    ],
+    "Languages": {
+      "eng": "English",
+      "niu": "Niuean"
+    },
+    "Population": 1681,
+    "Currencies": {
+      "NZD": {
+        "symbol": "$",
+        "name": "New Zealand dollar"
+      }
+    }
+  },
+  {
+    "Name": "Indonesia",
+    "Capital": [
+      "Jakarta"
+    ],
+    "Languages": {
+      "ind": "Indonesian"
+    },
+    "Population": 284438782,
+    "Currencies": {
+      "IDR": {
+        "symbol": "Rp",
+        "name": "Indonesian rupiah"
+      }
+    }
+  },
+  {
+    "Name": "Belgium",
+    "Capital": [
+      "Brussels"
+    ],
+    "Languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "Population": 11825551,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Nauru",
+    "Capital": [
+      "Yaren"
+    ],
+    "Languages": {
+      "eng": "English",
+      "nau": "Nauru"
+    },
+    "Population": 11680,
+    "Currencies": {
+      "AUD": {
+        "symbol": "$",
+        "name": "Australian dollar"
+      }
+    }
+  },
+  {
+    "Name": "French Polynesia",
+    "Capital": [
+      "Papeet\u0113"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 279500,
+    "Currencies": {
+      "XPF": {
+        "symbol": "\u20a3",
+        "name": "CFP franc"
+      }
+    }
+  },
+  {
+    "Name": "Iraq",
+    "Capital": [
+      "Baghdad"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "arc": "Aramaic",
+      "ckb": "Sorani"
+    },
+    "Population": 46118793,
+    "Currencies": {
+      "IQD": {
+        "symbol": "\u0639.\u062f",
+        "name": "Iraqi dinar"
+      }
+    }
+  },
+  {
+    "Name": "Madagascar",
+    "Capital": [
+      "Antananarivo"
+    ],
+    "Languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    },
+    "Population": 31727042,
+    "Currencies": {
+      "MGA": {
+        "symbol": "Ar",
+        "name": "Malagasy ariary"
+      }
+    }
+  },
+  {
+    "Name": "Vietnam",
+    "Capital": [
+      "Hanoi"
+    ],
+    "Languages": {
+      "vie": "Vietnamese"
+    },
+    "Population": 101343800,
+    "Currencies": {
+      "VND": {
+        "symbol": "\u20ab",
+        "name": "Vietnamese \u0111\u1ed3ng"
+      }
+    }
+  },
+  {
+    "Name": "Mauritius",
+    "Capital": [
+      "Port Louis"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    },
+    "Population": 1243741,
+    "Currencies": {
+      "MUR": {
+        "symbol": "\u20a8",
+        "name": "Mauritian rupee"
+      }
+    }
+  },
+  {
+    "Name": "American Samoa",
+    "Capital": [
+      "Pago Pago"
+    ],
+    "Languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "Population": 49710,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Ivory Coast",
+    "Capital": [
+      "Yamoussoukro"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 31719275,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Caribbean Netherlands",
+    "Capital": [
+      "Kralendijk"
+    ],
+    "Languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "Population": 31980,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Liechtenstein",
+    "Capital": [
+      "Vaduz"
+    ],
+    "Languages": {
+      "deu": "German"
+    },
+    "Population": 40900,
+    "Currencies": {
+      "CHF": {
+        "symbol": "Fr",
+        "name": "Swiss franc"
+      }
+    }
+  },
+  {
+    "Name": "Italy",
+    "Capital": [
+      "Rome"
+    ],
+    "Languages": {
+      "ita": "Italian",
+      "cat": "Catalan"
+    },
+    "Population": 58927633,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Saint Kitts and Nevis",
+    "Capital": [
+      "Basseterre"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 51320,
+    "Currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Qatar",
+    "Capital": [
+      "Doha"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 3173024,
+    "Currencies": {
+      "QAR": {
+        "symbol": "\u0631.\u0642",
+        "name": "Qatari riyal"
+      }
+    }
+  },
+  {
+    "Name": "Turkey",
+    "Capital": [
+      "Ankara"
+    ],
+    "Languages": {
+      "tur": "Turkish"
+    },
+    "Population": 85664944,
+    "Currencies": {
+      "TRY": {
+        "symbol": "\u20ba",
+        "name": "Turkish lira"
+      }
+    }
+  },
+  {
+    "Name": "United States Virgin Islands",
+    "Capital": [
+      "Charlotte Amalie"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 87146,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Angola",
+    "Capital": [
+      "Luanda"
+    ],
+    "Languages": {
+      "por": "Portuguese"
+    },
+    "Population": 36170961,
+    "Currencies": {
+      "AOA": {
+        "symbol": "Kz",
+        "name": "Angolan kwanza"
+      }
+    }
+  },
+  {
+    "Name": "Kenya",
+    "Capital": [
+      "Nairobi"
+    ],
+    "Languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "Population": 53330978,
+    "Currencies": {
+      "KES": {
+        "symbol": "Sh",
+        "name": "Kenyan shilling"
+      }
+    }
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Capital": [
+      "Riyadh"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 35300280,
+    "Currencies": {
+      "SAR": {
+        "symbol": "\u0631.\u0633",
+        "name": "Saudi riyal"
+      }
+    }
+  },
+  {
+    "Name": "South Sudan",
+    "Capital": [
+      "Juba"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 15786898,
+    "Currencies": {
+      "SSP": {
+        "symbol": "\u00a3",
+        "name": "South Sudanese pound"
+      }
+    }
+  },
+  {
+    "Name": "Turks and Caicos Islands",
+    "Capital": [
+      "Cockburn Town"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 50828,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Canada",
+    "Capital": [
+      "Ottawa"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "Population": 41651653,
+    "Currencies": {
+      "CAD": {
+        "symbol": "$",
+        "name": "Canadian dollar"
+      }
+    }
+  },
+  {
+    "Name": "Nigeria",
+    "Capital": [
+      "Abuja"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 223800000,
+    "Currencies": {
+      "NGN": {
+        "symbol": "\u20a6",
+        "name": "Nigerian naira"
+      }
+    }
+  },
+  {
+    "Name": "Niger",
+    "Capital": [
+      "Niamey"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 26312034,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Gibraltar",
+    "Capital": [
+      "Gibraltar"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 38000,
+    "Currencies": {
+      "GIP": {
+        "symbol": "\u00a3",
+        "name": "Gibraltar pound"
+      }
+    }
+  },
+  {
+    "Name": "Kuwait",
+    "Capital": [
+      "Kuwait City"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 4881254,
+    "Currencies": {
+      "KWD": {
+        "symbol": "\u062f.\u0643",
+        "name": "Kuwaiti dinar"
+      }
+    }
+  },
+  {
+    "Name": "Venezuela",
+    "Capital": [
+      "Caracas"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 28517000,
+    "Currencies": {
+      "VES": {
+        "symbol": "Bs.S.",
+        "name": "Venezuelan bol\u00edvar soberano"
+      }
+    }
+  },
+  {
+    "Name": "Gambia",
+    "Capital": [
+      "Banjul"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 2422712,
+    "Currencies": {
+      "GMD": {
+        "symbol": "D",
+        "name": "dalasi"
+      }
+    }
+  },
+  {
+    "Name": "Paraguay",
+    "Capital": [
+      "Asunci\u00f3n"
+    ],
+    "Languages": {
+      "grn": "Guaran\u00ed",
+      "spa": "Spanish"
+    },
+    "Population": 6109644,
+    "Currencies": {
+      "PYG": {
+        "symbol": "\u20b2",
+        "name": "Paraguayan guaran\u00ed"
+      }
+    }
+  },
+  {
+    "Name": "Chile",
+    "Capital": [
+      "Santiago"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 20206953,
+    "Currencies": {
+      "CLP": {
+        "symbol": "$",
+        "name": "Chilean peso"
+      }
+    }
+  },
+  {
+    "Name": "North Macedonia",
+    "Capital": [
+      "Skopje"
+    ],
+    "Languages": {
+      "mkd": "Macedonian"
+    },
+    "Population": 1822612,
+    "Currencies": {
+      "MKD": {
+        "symbol": "den",
+        "name": "denar"
+      }
+    }
+  },
+  {
+    "Name": "Macau",
+    "Capital": [],
+    "Languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    },
+    "Population": 685900,
+    "Currencies": {
+      "MOP": {
+        "symbol": "P",
+        "name": "Macanese pataca"
+      }
+    }
+  },
+  {
+    "Name": "Armenia",
+    "Capital": [
+      "Yerevan"
+    ],
+    "Languages": {
+      "hye": "Armenian"
+    },
+    "Population": 3076200,
+    "Currencies": {
+      "AMD": {
+        "symbol": "\u058f",
+        "name": "Armenian dram"
+      }
+    }
+  },
+  {
+    "Name": "Botswana",
+    "Capital": [
+      "Gaborone"
+    ],
+    "Languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "Population": 2359609,
+    "Currencies": {
+      "BWP": {
+        "symbol": "P",
+        "name": "Botswana pula"
+      }
+    }
+  },
+  {
+    "Name": "Nepal",
+    "Capital": [
+      "Kathmandu"
+    ],
+    "Languages": {
+      "nep": "Nepali"
+    },
+    "Population": 29911840,
+    "Currencies": {
+      "NPR": {
+        "symbol": "\u20a8",
+        "name": "Nepalese rupee"
+      }
+    }
+  },
+  {
+    "Name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "Capital": [
+      "S\u00e3o Tom\u00e9"
+    ],
+    "Languages": {
+      "por": "Portuguese"
+    },
+    "Population": 209607,
+    "Currencies": {
+      "STN": {
+        "symbol": "Db",
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra"
+      }
+    }
+  },
+  {
+    "Name": "Benin",
+    "Capital": [
+      "Porto-Novo"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 13224860,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Solomon Islands",
+    "Capital": [
+      "Honiara"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 750325,
+    "Currencies": {
+      "SBD": {
+        "symbol": "$",
+        "name": "Solomon Islands dollar"
+      }
+    }
+  },
+  {
+    "Name": "Papua New Guinea",
+    "Capital": [
+      "Port Moresby"
+    ],
+    "Languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    },
+    "Population": 11781559,
+    "Currencies": {
+      "PGK": {
+        "symbol": "K",
+        "name": "Papua New Guinean kina"
+      }
+    }
+  },
+  {
+    "Name": "Guinea",
+    "Capital": [
+      "Conakry"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 14363931,
+    "Currencies": {
+      "GNF": {
+        "symbol": "Fr",
+        "name": "Guinean franc"
+      }
+    }
+  },
+  {
+    "Name": "Equatorial Guinea",
+    "Capital": [
+      "Malabo"
+    ],
+    "Languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "Population": 1668768,
+    "Currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Guinea-Bissau",
+    "Capital": [
+      "Bissau"
+    ],
+    "Languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    },
+    "Population": 1781308,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Mayotte",
+    "Capital": [
+      "Mamoudzou"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 320901,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Greenland",
+    "Capital": [
+      "Nuuk"
+    ],
+    "Languages": {
+      "kal": "Greenlandic"
+    },
+    "Population": 56542,
+    "Currencies": {
+      "DKK": {
+        "symbol": "kr.",
+        "name": "krone"
+      }
+    }
+  },
+  {
+    "Name": "Monaco",
+    "Capital": [
+      "Monaco"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 38423,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Pakistan",
+    "Capital": [
+      "Islamabad"
+    ],
+    "Languages": {
+      "eng": "English",
+      "urd": "Urdu"
+    },
+    "Population": 241499431,
+    "Currencies": {
+      "PKR": {
+        "symbol": "\u20a8",
+        "name": "Pakistani rupee"
+      }
+    }
+  },
+  {
+    "Name": "Malaysia",
+    "Capital": [
+      "Kuala Lumpur"
+    ],
+    "Languages": {
+      "eng": "English",
+      "msa": "Malay"
+    },
+    "Population": 34231700,
+    "Currencies": {
+      "MYR": {
+        "symbol": "RM",
+        "name": "Malaysian ringgit"
+      }
+    }
+  },
+  {
+    "Name": "Kosovo",
+    "Capital": [
+      "Pristina"
+    ],
+    "Languages": {
+      "sqi": "Albanian",
+      "srp": "Serbian"
+    },
+    "Population": 1585566,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Moldova",
+    "Capital": [
+      "Chi\u0219in\u0103u"
+    ],
+    "Languages": {
+      "ron": "Romanian"
+    },
+    "Population": 2749076,
+    "Currencies": {
+      "MDL": {
+        "symbol": "L",
+        "name": "Moldovan leu"
+      }
+    }
+  },
+  {
+    "Name": "Tuvalu",
+    "Capital": [
+      "Funafuti"
+    ],
+    "Languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    },
+    "Population": 10643,
+    "Currencies": {
+      "AUD": {
+        "symbol": "$",
+        "name": "Australian dollar"
+      },
+      "TVD": {
+        "symbol": "$",
+        "name": "Tuvaluan dollar"
+      }
+    }
+  },
+  {
+    "Name": "Saint Pierre and Miquelon",
+    "Capital": [
+      "Saint-Pierre"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 5819,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Senegal",
+    "Capital": [
+      "Dakar"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 18593258,
+    "Currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Panama",
+    "Capital": [
+      "Panama City"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 4064780,
+    "Currencies": {
+      "PAB": {
+        "symbol": "B/.",
+        "name": "Panamanian balboa"
+      },
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Malta",
+    "Capital": [
+      "Valletta"
+    ],
+    "Languages": {
+      "eng": "English",
+      "mlt": "Maltese"
+    },
+    "Population": 574250,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Uganda",
+    "Capital": [
+      "Kampala"
+    ],
+    "Languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "Population": 45905417,
+    "Currencies": {
+      "UGX": {
+        "symbol": "Sh",
+        "name": "Ugandan shilling"
+      }
+    }
+  },
+  {
+    "Name": "Albania",
+    "Capital": [
+      "Tirana"
+    ],
+    "Languages": {
+      "sqi": "Albanian"
+    },
+    "Population": 2363314,
+    "Currencies": {
+      "ALL": {
+        "symbol": "L",
+        "name": "Albanian lek"
+      }
+    }
+  },
+  {
+    "Name": "United Arab Emirates",
+    "Capital": [
+      "Abu Dhabi"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 11294243,
+    "Currencies": {
+      "AED": {
+        "symbol": "\u062f.\u0625",
+        "name": "United Arab Emirates dirham"
+      }
+    }
+  },
+  {
+    "Name": "Costa Rica",
+    "Capital": [
+      "San Jos\u00e9"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 5309625,
+    "Currencies": {
+      "CRC": {
+        "symbol": "\u20a1",
+        "name": "Costa Rican col\u00f3n"
+      }
+    }
+  },
+  {
+    "Name": "Saint Barth\u00e9lemy",
+    "Capital": [
+      "Gustavia"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 10562,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Saint Helena, Ascension and Tristan da Cunha",
+    "Capital": [
+      "Jamestown"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 5651,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "Pound sterling"
+      },
+      "SHP": {
+        "symbol": "\u00a3",
+        "name": "Saint Helena pound"
+      }
+    }
+  },
+  {
+    "Name": "Israel",
+    "Capital": [
+      "Jerusalem"
+    ],
+    "Languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    },
+    "Population": 10134800,
+    "Currencies": {
+      "ILS": {
+        "symbol": "\u20aa",
+        "name": "Israeli new shekel"
+      }
+    }
+  },
+  {
+    "Name": "Austria",
+    "Capital": [
+      "Vienna"
+    ],
+    "Languages": {
+      "deu": "German"
+    },
+    "Population": 9200931,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Laos",
+    "Capital": [
+      "Vientiane"
+    ],
+    "Languages": {
+      "lao": "Lao"
+    },
+    "Population": 7647000,
+    "Currencies": {
+      "LAK": {
+        "symbol": "\u20ad",
+        "name": "Lao kip"
+      }
+    }
+  },
+  {
+    "Name": "France",
+    "Capital": [
+      "Paris"
+    ],
+    "Languages": {
+      "fra": "French"
+    },
+    "Population": 66351959,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Papua New Guinea",
+    "Capital": [
+      "Port Moresby"
+    ],
+    "Languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    },
+    "Population": 11781559,
+    "Currencies": {
+      "PGK": {
+        "symbol": "K",
+        "name": "Papua New Guinean kina"
+      }
+    }
+  },
+  {
+    "Name": "Dominican Republic",
+    "Capital": [
+      "Santo Domingo"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 10771504,
+    "Currencies": {
+      "DOP": {
+        "symbol": "$",
+        "name": "Dominican peso"
+      }
+    }
+  },
+  {
+    "Name": "Tonga",
+    "Capital": [
+      "Nuku'alofa"
+    ],
+    "Languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    },
+    "Population": 100179,
+    "Currencies": {
+      "TOP": {
+        "symbol": "T$",
+        "name": "Tongan pa\u02bbanga"
+      }
+    }
+  },
+  {
+    "Name": "Jamaica",
+    "Capital": [
+      "Kingston"
+    ],
+    "Languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    },
+    "Population": 2825544,
+    "Currencies": {
+      "JMD": {
+        "symbol": "$",
+        "name": "Jamaican dollar"
+      }
+    }
+  },
+  {
+    "Name": "Bouvet Island",
+    "Capital": [],
+    "Languages": {
+      "nor": "Norwegian"
+    },
+    "Population": 0,
+    "Currencies": {}
+  },
+  {
+    "Name": "Slovakia",
+    "Capital": [
+      "Bratislava"
+    ],
+    "Languages": {
+      "slk": "Slovak"
+    },
+    "Population": 5413813,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Kiribati",
+    "Capital": [
+      "South Tarawa"
+    ],
+    "Languages": {
+      "eng": "English",
+      "gil": "Gilbertese"
+    },
+    "Population": 120740,
+    "Currencies": {
+      "AUD": {
+        "symbol": "$",
+        "name": "Australian dollar"
+      },
+      "KID": {
+        "symbol": "$",
+        "name": "Kiribati dollar"
+      }
+    }
+  },
+  {
+    "Name": "Jordan",
+    "Capital": [
+      "Amman"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 11734000,
+    "Currencies": {
+      "JOD": {
+        "symbol": "\u062f.\u0627",
+        "name": "Jordanian dinar"
+      }
+    }
+  },
+  {
+    "Name": "Maldives",
+    "Capital": [
+      "Mal\u00e9"
+    ],
+    "Languages": {
+      "div": "Maldivian"
+    },
+    "Population": 515132,
+    "Currencies": {
+      "MVR": {
+        "symbol": ".\u0783",
+        "name": "Maldivian rufiyaa"
+      }
+    }
+  },
+  {
+    "Name": "Montenegro",
+    "Capital": [
+      "Podgorica"
+    ],
+    "Languages": {
+      "cnr": "Montenegrin"
+    },
+    "Population": 623327,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Japan",
+    "Capital": [
+      "Tokyo"
+    ],
+    "Languages": {
+      "jpn": "Japanese"
+    },
+    "Population": 123210000,
+    "Currencies": {
+      "JPY": {
+        "symbol": "\u00a5",
+        "name": "Japanese yen"
+      }
+    }
+  },
+  {
+    "Name": "El Salvador",
+    "Capital": [
+      "San Salvador"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 6029976,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Colombia",
+    "Capital": [
+      "Bogot\u00e1"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 53057212,
+    "Currencies": {
+      "COP": {
+        "symbol": "$",
+        "name": "Colombian peso"
+      }
+    }
+  },
+  {
+    "Name": "Zimbabwe",
+    "Capital": [
+      "Harare"
+    ],
+    "Languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "Population": 17073087,
+    "Currencies": {
+      "ZWL": {
+        "symbol": "$",
+        "name": "Zimbabwean dollar"
+      }
+    }
+  },
+  {
+    "Name": "Equatorial Guinea",
+    "Capital": [
+      "Malabo"
+    ],
+    "Languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "Population": 1668768,
+    "Currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Taiwan",
+    "Capital": [
+      "Taipei"
+    ],
+    "Languages": {
+      "zho": "Chinese"
+    },
+    "Population": 23317031,
+    "Currencies": {
+      "TWD": {
+        "symbol": "$",
+        "name": "New Taiwan dollar"
+      }
+    }
+  },
+  {
+    "Name": "Hong Kong",
+    "Capital": [
+      "City of Victoria"
+    ],
+    "Languages": {
+      "eng": "English",
+      "zho": "Chinese"
+    },
+    "Population": 7527500,
+    "Currencies": {
+      "HKD": {
+        "symbol": "$",
+        "name": "Hong Kong dollar"
+      }
+    }
+  },
+  {
+    "Name": "Macau",
+    "Capital": [],
+    "Languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    },
+    "Population": 685900,
+    "Currencies": {
+      "MOP": {
+        "symbol": "P",
+        "name": "Macanese pataca"
+      }
+    }
+  },
+  {
+    "Name": "China",
+    "Capital": [
+      "Beijing"
+    ],
+    "Languages": {
+      "zho": "Chinese"
+    },
+    "Population": 1408280000,
+    "Currencies": {
+      "CNY": {
+        "symbol": "\u00a5",
+        "name": "Chinese yuan"
+      }
+    }
+  },
+  {
+    "Name": "Honduras",
+    "Capital": [
+      "Tegucigalpa"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 9892632,
+    "Currencies": {
+      "HNL": {
+        "symbol": "L",
+        "name": "Honduran lempira"
+      }
+    }
+  },
+  {
+    "Name": "Isle of Man",
+    "Capital": [
+      "Douglas"
+    ],
+    "Languages": {
+      "eng": "English",
+      "glv": "Manx"
+    },
+    "Population": 84530,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "British pound"
+      },
+      "IMP": {
+        "symbol": "\u00a3",
+        "name": "Manx pound"
+      }
+    }
+  },
+  {
+    "Name": "DR Congo",
+    "Capital": [
+      "Kinshasa"
+    ],
+    "Languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "Population": 112832000,
+    "Currencies": {
+      "CDF": {
+        "symbol": "FC",
+        "name": "Congolese franc"
+      }
+    }
+  },
+  {
+    "Name": "Republic of the Congo",
+    "Capital": [
+      "Brazzaville"
+    ],
+    "Languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    },
+    "Population": 6142180,
+    "Currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Myanmar",
+    "Capital": [
+      "Naypyidaw"
+    ],
+    "Languages": {
+      "mya": "Burmese"
+    },
+    "Population": 51316756,
+    "Currencies": {
+      "MMK": {
+        "symbol": "Ks",
+        "name": "Burmese kyat"
+      }
+    }
+  },
+  {
+    "Name": "Greece",
+    "Capital": [
+      "Athens"
+    ],
+    "Languages": {
+      "ell": "Greek"
+    },
+    "Population": 10400720,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "American Samoa",
+    "Capital": [
+      "Pago Pago"
+    ],
+    "Languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "Population": 49710,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Samoa",
+    "Capital": [
+      "Apia"
+    ],
+    "Languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "Population": 205557,
+    "Currencies": {
+      "WST": {
+        "symbol": "T",
+        "name": "Samoan t\u0101l\u0101"
+      }
+    }
+  },
+  {
+    "Name": "Falkland Islands",
+    "Capital": [
+      "Stanley"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 3662,
+    "Currencies": {
+      "FKP": {
+        "symbol": "\u00a3",
+        "name": "Falkland Islands pound"
+      }
+    }
+  },
+  {
+    "Name": "Tanzania",
+    "Capital": [
+      "Dodoma"
+    ],
+    "Languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "Population": 68153004,
+    "Currencies": {
+      "TZS": {
+        "symbol": "Sh",
+        "name": "Tanzanian shilling"
+      }
+    }
+  },
+  {
+    "Name": "Central African Republic",
+    "Capital": [
+      "Bangui"
+    ],
+    "Languages": {
+      "fra": "French",
+      "sag": "Sango"
+    },
+    "Population": 6470307,
+    "Currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    }
+  },
+  {
+    "Name": "Romania",
+    "Capital": [
+      "Bucharest"
+    ],
+    "Languages": {
+      "ron": "Romanian"
+    },
+    "Population": 19036031,
+    "Currencies": {
+      "RON": {
+        "symbol": "lei",
+        "name": "Romanian leu"
+      }
+    }
+  },
+  {
+    "Name": "United States Minor Outlying Islands",
+    "Capital": [
+      "Washington DC"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 0,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Tajikistan",
+    "Capital": [
+      "Dushanbe"
+    ],
+    "Languages": {
+      "rus": "Russian",
+      "tgk": "Tajik"
+    },
+    "Population": 10499000,
+    "Currencies": {
+      "TJS": {
+        "symbol": "\u0405\u041c",
+        "name": "Tajikistani somoni"
+      }
+    }
+  },
+  {
+    "Name": "Bahamas",
+    "Capital": [
+      "Nassau"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 398165,
+    "Currencies": {
+      "BSD": {
+        "symbol": "$",
+        "name": "Bahamian dollar"
+      },
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Nigeria",
+    "Capital": [
+      "Abuja"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 223800000,
+    "Currencies": {
+      "NGN": {
+        "symbol": "\u20a6",
+        "name": "Nigerian naira"
+      }
+    }
+  },
+  {
+    "Name": "Vatican City",
+    "Capital": [
+      "Vatican City"
+    ],
+    "Languages": {
+      "ita": "Italian",
+      "lat": "Latin"
+    },
+    "Population": 882,
+    "Currencies": {
+      "EUR": {
+        "symbol": "\u20ac",
+        "name": "Euro"
+      }
+    }
+  },
+  {
+    "Name": "Bahrain",
+    "Capital": [
+      "Manama"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 1594654,
+    "Currencies": {
+      "BHD": {
+        "symbol": ".\u062f.\u0628",
+        "name": "Bahraini dinar"
+      }
+    }
+  },
+  {
+    "Name": "Thailand",
+    "Capital": [
+      "Bangkok"
+    ],
+    "Languages": {
+      "tha": "Thai"
+    },
+    "Population": 65859640,
+    "Currencies": {
+      "THB": {
+        "symbol": "\u0e3f",
+        "name": "Thai baht"
+      }
+    }
+  },
+  {
+    "Name": "Sweden",
+    "Capital": [
+      "Stockholm"
+    ],
+    "Languages": {
+      "swe": "Swedish"
+    },
+    "Population": 10605098,
+    "Currencies": {
+      "SEK": {
+        "symbol": "kr",
+        "name": "Swedish krona"
+      }
+    }
+  },
+  {
+    "Name": "British Virgin Islands",
+    "Capital": [
+      "Road Town"
+    ],
+    "Languages": {
+      "eng": "English"
+    },
+    "Population": 39471,
+    "Currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    }
+  },
+  {
+    "Name": "Guernsey",
+    "Capital": [
+      "St. Peter Port"
+    ],
+    "Languages": {
+      "eng": "English",
+      "fra": "French",
+      "nfr": "Guern\u00e9siais"
+    },
+    "Population": 64781,
+    "Currencies": {
+      "GBP": {
+        "symbol": "\u00a3",
+        "name": "British pound"
+      },
+      "GGP": {
+        "symbol": "\u00a3",
+        "name": "Guernsey pound"
+      }
+    }
+  },
+  {
+    "Name": "Guatemala",
+    "Capital": [
+      "Guatemala City"
+    ],
+    "Languages": {
+      "spa": "Spanish"
+    },
+    "Population": 18079810,
+    "Currencies": {
+      "GTQ": {
+        "symbol": "Q",
+        "name": "Guatemalan quetzal"
+      }
+    }
+  },
+  {
+    "Name": "Syria",
+    "Capital": [
+      "Damascus"
+    ],
+    "Languages": {
+      "ara": "Arabic"
+    },
+    "Population": 25620000,
+    "Currencies": {
+      "SYP": {
+        "symbol": "\u00a3",
+        "name": "Syrian pound"
+      }
+    }
+  },
+  {
+    "Name": "Turkmenistan",
+    "Capital": [
+      "Ashgabat"
+    ],
+    "Languages": {
+      "rus": "Russian",
+      "tuk": "Turkmen"
+    },
+    "Population": 7057841,
+    "Currencies": {
+      "TMT": {
+        "symbol": "m",
+        "name": "Turkmenistan manat"
+      }
+    }
+  }
+]
